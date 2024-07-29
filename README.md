@@ -20,13 +20,22 @@ Before and after
 2. Click on the extension then 'Create new style'
 3. Use the following CSS code in the style you're creating:
    ```css
+   /*
+     Future changes:
+     1. anonimize the profile pictures when closed
+   */
+   
+   /* Left tab container */
+   /* Changing the width so the profile pictures are still visible */
    ._aigw {
     max-width: 70px !important;
     transition: 0.2s;
-    }
+   }
+
+   /* Opening left side tab when hovering */
     ._aigw:hover {
         max-width: 30% !important;
-    }
+   }
    ```
 4. In the 'apply to' section just underneath the code section choose 'URLS in domain' and then write: `web.whatsapp.com`
 5. Save it and open web.whatsapp.com
