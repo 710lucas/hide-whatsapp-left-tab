@@ -8,6 +8,9 @@ Before and after
 <img src="https://github.com/user-attachments/assets/2a3a64e9-ba42-44c9-af2f-42b1b5c8b174" width="300px"/>
 
 <img src="https://github.com/user-attachments/assets/5d583004-42ee-4fac-87ec-e0009b44fe2f" width="300px"/>
+
+**The left tab open on hover**
+
 </p>
 
 
